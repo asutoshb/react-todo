@@ -47,3 +47,13 @@ input {
   border: rgb(255, 255, 255);
   outline: 0;
 }
+
+.showall {
+  background-color: palevioletred;
+  color: white;
+  border-radius: 20px;
+  margin-top: 10px;
+  outline: 0;
+  height: 40px;
+  border: rgb(255, 255, 255);
+}
